@@ -1,7 +1,5 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# News API
+This **will** be an app that serves news stories from a variety of sources that will be hooked up to a react front end.
 
 Things you may want to cover:
 
